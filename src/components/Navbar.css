@@ -1,0 +1,47 @@
+.nav {
+  background: white;
+  padding: 0 2rem;
+  height: 0rem;
+  min-height: 40vh;
+  overflow: hidden;
+}
+
+.nav .nav-menu {
+  justify-content: space-between;
+}
+.nav .nav-items {
+  display: flex;
+  margin: 0;
+}
+.nav .nav-brand a {
+  font-size: 1.6rem;
+  padding: 1rem 0;
+  text-decoration: none;
+  display: block;
+  font-family: var(--Lexend);
+  font-size: 1.6rem;
+}
+
+.nav .nav-items .nav-link {
+  padding: 1.6rem 1rem;
+  font-size: 1.2rem;
+  position: relative;
+  font-family: var(--Abel);
+  font-size: 1.2rem;
+}
+.nav .nav-items .nav-link:hover {
+  background-color: var(--midnight);
+}
+.nav .nav-items .nav-link:hover a {
+  color: var(--white);
+}
+.nav .social {
+  padding: 1.4rem;
+  font-size: 1.2rem 0;
+}
+.nav .social i {
+  padding: 0 0.2rem;
+}
+.nav .social i:hover {
+  color: var(--text-light);
+}
