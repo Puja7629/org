@@ -1,0 +1,11 @@
+/* Main Title */
+main .main {
+  background: url(../imgs/background.jpg);
+  background-size: cover;
+  height: 110vh;
+  display: flex;
+  justify-content: center;
+}
+main .main .main-background{
+    padding-top: 10rem;
+}
