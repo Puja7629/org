@@ -33,7 +33,12 @@
   --bg-color: #110133;
   --midnight: #465881;
   /* gradient */
-  --sky: linear-gradient(15deg, #465881 0%, #c9d1d3 100%);
+  /* --sky: linear-gradient(15deg, #465881 0%, #c9d1d3 100%); */
+  --sky: radial-gradient(
+    circle farthest-corner at -0.8% 4.3%,
+    rgba(59, 176, 255, 1) 0%,
+    rgba(76, 222, 250, 1) 83.6%
+  );
 
   /* fonts */
   --Abel: "Abel", cursive;
@@ -85,4 +90,11 @@ span {
 }
 .container {
   margin: 0 5vw;
+}
+.text-grey {
+  color: var(--text-grey);
+}
+p {
+  font-family: var(--Lexend);
+  color: var(--text-light);
 }
