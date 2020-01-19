@@ -6,6 +6,21 @@ main .main {
   display: flex;
   justify-content: center;
 }
-main .main .main-background{
-    padding-top: 10rem;
+main .main .main-background {
+  padding-top: 10rem;
+  text-align: center;
+  color: var(--white);
+}
+main .main h1,
+h3 {
+  margin: 0.3rem;
+}
+main .main .btn {
+  margin: 1.8rem;
+  background: var(--sky);
+}
+main .main .btn:hover{
+  background: transparent;
+  border: 1px solid var(--white);
+  color: var(--white);
 }

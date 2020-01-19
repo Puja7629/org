@@ -1,0 +1,10 @@
+section .site-content {
+  display: grid;
+  grid-template-columns: 70% 30%;
+}
+section img {
+  max-width: 100%;
+}
+section .post-content {
+  margin-bottom: 5rem;
+}
