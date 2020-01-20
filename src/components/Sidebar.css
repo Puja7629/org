@@ -30,7 +30,7 @@
   font-size: 1rem;
 }
 .site-content .sidebar .newsletter {
-  padding-top: 10rem;
+  padding-top: 5rem;
 }
 .site-content .sidebar .newsletter .form-element {
   padding: 0.5rem 2rem;
@@ -56,4 +56,9 @@
   padding: 0.4rem 1rem;
   border-radius: 3rem;
   margin: 0.4rem 0.6rem;
+}
+@media only screen and (max-width: 768px) {
+  .site-content .sidebar .newsletter {
+    padding-top: -10rem !important;
+  }
 }
