@@ -6,6 +6,22 @@ import "./Carousel.css";
 import mobile from "../imgs/mobile.jpg";
 
 class Carousel extends React.Component {
+  state = {
+    responsive: {
+      0: {
+        items: 1
+      },
+      320: {
+        items: 1
+      },
+      560: {
+        items: 2
+      },
+      960: {
+        items: 3
+      }
+    }
+  };
   render() {
     return (
       <section>
@@ -19,10 +35,12 @@ class Carousel extends React.Component {
               autoplayTimeout={3000}
               nav={true}
               dots={false}
+              items={3}
               navText={[
                 `<span class= 'owl-nav-prev' > <i class='fas fa-long-arrow-alt-left'></i></span>`,
                 `<span class='owl-nav-next'><i class='fas fa-long-arrow-alt-right'></i></span>`
               ]}
+              responsive={this.state.responsive}
             >
               <div class="blog-content">
                 <img src={mobile} />

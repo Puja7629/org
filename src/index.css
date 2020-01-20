@@ -98,3 +98,22 @@ p {
   font-family: var(--Lexend);
   color: var(--text-light);
 }
+@media only screen and (max-width: 1130px) {
+  .site-content .post-content > .post-image .post-info {
+    left: 2rem !important;
+    bottom: 1.2rem !important;
+    border-radius: 0% !important;
+  }
+  .site-content .sidebar .popular-post .post-info {
+    display: none !important;
+  }
+  footer.footer .container {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  section.container .site-content {
+    grid-template-columns: 100% !important;
+  }
+}

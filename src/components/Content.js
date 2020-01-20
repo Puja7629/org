@@ -93,7 +93,7 @@ class Content extends React.Component {
               </div>
             </div>
             <hr />
-        
+
             <div className="post-content">
               <div className="post-image">
                 <div>
@@ -145,8 +145,7 @@ class Content extends React.Component {
               </a>
             </div>
           </div>
-                <Sidebar />
-                
+          <Sidebar />
         </div>
       </section>
     );
