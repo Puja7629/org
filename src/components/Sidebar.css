@@ -57,8 +57,3 @@
   border-radius: 3rem;
   margin: 0.4rem 0.6rem;
 }
-@media only screen and (max-width: 768px) {
-  .site-content .sidebar .newsletter {
-    padding-top: -10rem !important;
-  }
-}
