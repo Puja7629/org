@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/org/static/css/main.c26e118d.chunk.css",
+    "main.css": "/org/static/css/main.bfa5d1c6.chunk.css",
     "main.js": "/org/static/js/main.0368ffbd.chunk.js",
     "main.js.map": "/org/static/js/main.0368ffbd.chunk.js.map",
     "runtime-main.js": "/org/static/js/runtime-main.6d7b00c3.js",
@@ -9,10 +9,10 @@
     "static/js/2.928dde4f.chunk.js": "/org/static/js/2.928dde4f.chunk.js",
     "static/js/2.928dde4f.chunk.js.map": "/org/static/js/2.928dde4f.chunk.js.map",
     "index.html": "/org/index.html",
-    "precache-manifest.37929cc8f4f369aeed00da2e720c8120.js": "/org/precache-manifest.37929cc8f4f369aeed00da2e720c8120.js",
+    "precache-manifest.7fe7c0df0bedac89c25d972fabd0c87d.js": "/org/precache-manifest.7fe7c0df0bedac89c25d972fabd0c87d.js",
     "service-worker.js": "/org/service-worker.js",
     "static/css/2.34c9b3d3.chunk.css.map": "/org/static/css/2.34c9b3d3.chunk.css.map",
-    "static/css/main.c26e118d.chunk.css.map": "/org/static/css/main.c26e118d.chunk.css.map",
+    "static/css/main.bfa5d1c6.chunk.css.map": "/org/static/css/main.bfa5d1c6.chunk.css.map",
     "static/js/2.928dde4f.chunk.js.LICENSE": "/org/static/js/2.928dde4f.chunk.js.LICENSE",
     "static/media/index.css": "/org/static/media/Livvic-Regular.686d9685.ttf",
     "static/media/Carousel.css": "/org/static/media/abstract.a6069ae3.png",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.6d7b00c3.js",
     "static/css/2.34c9b3d3.chunk.css",
     "static/js/2.928dde4f.chunk.js",
-    "static/css/main.c26e118d.chunk.css",
+    "static/css/main.bfa5d1c6.chunk.css",
     "static/js/main.0368ffbd.chunk.js"
   ]
 }
