@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0f90c158e829666299fd65441476a8b",
+    "revision": "30c6389dd6bd54c6cd0d7d9697b942c8",
     "url": "/org/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/org/static/css/2.34c9b3d3.chunk.css"
   },
   {
-    "revision": "c1f1db980f7557e0d721",
-    "url": "/org/static/css/main.166f3c1e.chunk.css"
+    "revision": "e60cda1f6fbb41db2ac8",
+    "url": "/org/static/css/main.74f79803.chunk.css"
   },
   {
     "revision": "fe5841c17fa25dfcde8f",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/org/static/js/2.928dde4f.chunk.js.LICENSE"
   },
   {
-    "revision": "c1f1db980f7557e0d721",
-    "url": "/org/static/js/main.15b15a43.chunk.js"
+    "revision": "e60cda1f6fbb41db2ac8",
+    "url": "/org/static/js/main.0368ffbd.chunk.js"
   },
   {
     "revision": "073943c34ef00ea0fe23",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/org/static/media/Livvic-Regular.686d9685.ttf"
   },
   {
-    "revision": "4dc8bdbef956b2a6653dc5e6cd2d7a13",
-    "url": "/org/static/media/abstract.4dc8bdbe.jpg"
+    "revision": "a6069ae3cfc5d2d0b271dcea1798e256",
+    "url": "/org/static/media/abstract.a6069ae3.png"
   },
   {
     "revision": "ad8ae16a03943c4fccc6014451eb9e23",
