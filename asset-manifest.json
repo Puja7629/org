@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/orgulous/static/css/main.e53af78f.chunk.css",
+    "main.js": "/orgulous/static/js/main.83f08a85.chunk.js",
+    "main.js.map": "/orgulous/static/js/main.83f08a85.chunk.js.map",
+    "runtime-main.js": "/orgulous/static/js/runtime-main.d4b56993.js",
+    "runtime-main.js.map": "/orgulous/static/js/runtime-main.d4b56993.js.map",
+    "static/css/2.34c9b3d3.chunk.css": "/orgulous/static/css/2.34c9b3d3.chunk.css",
+    "static/js/2.928dde4f.chunk.js": "/orgulous/static/js/2.928dde4f.chunk.js",
+    "static/js/2.928dde4f.chunk.js.map": "/orgulous/static/js/2.928dde4f.chunk.js.map",
+    "index.html": "/orgulous/index.html",
+    "precache-manifest.97fb72c0b21155894cce0d091bea59ff.js": "/orgulous/precache-manifest.97fb72c0b21155894cce0d091bea59ff.js",
+    "service-worker.js": "/orgulous/service-worker.js",
+    "static/css/2.34c9b3d3.chunk.css.map": "/orgulous/static/css/2.34c9b3d3.chunk.css.map",
+    "static/css/main.e53af78f.chunk.css.map": "/orgulous/static/css/main.e53af78f.chunk.css.map",
+    "static/js/2.928dde4f.chunk.js.LICENSE": "/orgulous/static/js/2.928dde4f.chunk.js.LICENSE",
+    "static/media/index.css": "/orgulous/static/media/Livvic-Regular.686d9685.ttf",
+    "static/media/Carousel.css": "/orgulous/static/media/abstract.4dc8bdbe.jpg",
+    "static/media/Home.css": "/orgulous/static/media/background.ad8ae16a.jpg",
+    "static/media/mobile.jpg": "/orgulous/static/media/mobile.1c748bea.jpg",
+    "static/media/student.jpg": "/orgulous/static/media/student.e819808e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4b56993.js",
+    "static/css/2.34c9b3d3.chunk.css",
+    "static/js/2.928dde4f.chunk.js",
+    "static/css/main.e53af78f.chunk.css",
+    "static/js/main.83f08a85.chunk.js"
+  ]
+}
