@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/orgulous/static/css/main.e53af78f.chunk.css",
-    "main.js": "/orgulous/static/js/main.83f08a85.chunk.js",
-    "main.js.map": "/orgulous/static/js/main.83f08a85.chunk.js.map",
-    "runtime-main.js": "/orgulous/static/js/runtime-main.d4b56993.js",
-    "runtime-main.js.map": "/orgulous/static/js/runtime-main.d4b56993.js.map",
-    "static/css/2.34c9b3d3.chunk.css": "/orgulous/static/css/2.34c9b3d3.chunk.css",
-    "static/js/2.928dde4f.chunk.js": "/orgulous/static/js/2.928dde4f.chunk.js",
-    "static/js/2.928dde4f.chunk.js.map": "/orgulous/static/js/2.928dde4f.chunk.js.map",
-    "index.html": "/orgulous/index.html",
-    "precache-manifest.97fb72c0b21155894cce0d091bea59ff.js": "/orgulous/precache-manifest.97fb72c0b21155894cce0d091bea59ff.js",
-    "service-worker.js": "/orgulous/service-worker.js",
-    "static/css/2.34c9b3d3.chunk.css.map": "/orgulous/static/css/2.34c9b3d3.chunk.css.map",
-    "static/css/main.e53af78f.chunk.css.map": "/orgulous/static/css/main.e53af78f.chunk.css.map",
-    "static/js/2.928dde4f.chunk.js.LICENSE": "/orgulous/static/js/2.928dde4f.chunk.js.LICENSE",
-    "static/media/index.css": "/orgulous/static/media/Livvic-Regular.686d9685.ttf",
-    "static/media/Carousel.css": "/orgulous/static/media/abstract.4dc8bdbe.jpg",
-    "static/media/Home.css": "/orgulous/static/media/background.ad8ae16a.jpg",
-    "static/media/mobile.jpg": "/orgulous/static/media/mobile.1c748bea.jpg",
-    "static/media/student.jpg": "/orgulous/static/media/student.e819808e.jpg"
+    "main.css": "/org/static/css/main.166f3c1e.chunk.css",
+    "main.js": "/org/static/js/main.15b15a43.chunk.js",
+    "main.js.map": "/org/static/js/main.15b15a43.chunk.js.map",
+    "runtime-main.js": "/org/static/js/runtime-main.6d7b00c3.js",
+    "runtime-main.js.map": "/org/static/js/runtime-main.6d7b00c3.js.map",
+    "static/css/2.34c9b3d3.chunk.css": "/org/static/css/2.34c9b3d3.chunk.css",
+    "static/js/2.928dde4f.chunk.js": "/org/static/js/2.928dde4f.chunk.js",
+    "static/js/2.928dde4f.chunk.js.map": "/org/static/js/2.928dde4f.chunk.js.map",
+    "index.html": "/org/index.html",
+    "precache-manifest.88b1d97878efb8ef6a3d4e66b0c0e22a.js": "/org/precache-manifest.88b1d97878efb8ef6a3d4e66b0c0e22a.js",
+    "service-worker.js": "/org/service-worker.js",
+    "static/css/2.34c9b3d3.chunk.css.map": "/org/static/css/2.34c9b3d3.chunk.css.map",
+    "static/css/main.166f3c1e.chunk.css.map": "/org/static/css/main.166f3c1e.chunk.css.map",
+    "static/js/2.928dde4f.chunk.js.LICENSE": "/org/static/js/2.928dde4f.chunk.js.LICENSE",
+    "static/media/index.css": "/org/static/media/Livvic-Regular.686d9685.ttf",
+    "static/media/Carousel.css": "/org/static/media/abstract.4dc8bdbe.jpg",
+    "static/media/Home.css": "/org/static/media/background.ad8ae16a.jpg",
+    "static/media/mobile.jpg": "/org/static/media/mobile.1c748bea.jpg",
+    "static/media/student.jpg": "/org/static/media/student.e819808e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4b56993.js",
+    "static/js/runtime-main.6d7b00c3.js",
     "static/css/2.34c9b3d3.chunk.css",
     "static/js/2.928dde4f.chunk.js",
-    "static/css/main.e53af78f.chunk.css",
-    "static/js/main.83f08a85.chunk.js"
+    "static/css/main.166f3c1e.chunk.css",
+    "static/js/main.15b15a43.chunk.js"
   ]
 }
